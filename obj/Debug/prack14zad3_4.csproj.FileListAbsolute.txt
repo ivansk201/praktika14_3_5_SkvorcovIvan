@@ -1,0 +1,21 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\bin\Debug\prack14zad3_4.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\bin\Debug\prack14zad3_4.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\bin\Debug\prack14zad3_4.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.Form1.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.Properties.Resources.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack14zad3_4\prack14zad3_4\obj\Debug\prack14zad3_4.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\bin\Debug\prack14zad3_4.exe.config
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\bin\Debug\prack14zad3_4.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\bin\Debug\prack14zad3_4.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.Form1.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.Properties.Resources.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.csproj.GenerateResource.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\pr14_3_5_SkvorcovIvan-main\obj\Debug\prack14zad3_4.pdb
